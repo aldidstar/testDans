@@ -1,4 +1,4 @@
-# testDans use mongoose
+# testDans
 
 Register = {"email": "", "password": "","retypepassword": ""} -> http://localhost:3000/users/register
 
